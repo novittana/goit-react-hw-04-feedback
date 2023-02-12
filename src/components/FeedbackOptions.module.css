@@ -1,0 +1,21 @@
+.options_list{
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    gap:20px;
+    padding-top:15px;
+    padding-left: 15px;
+}
+
+.button{
+    min-width: 80px;
+    border-radius: 4px;
+    background-color:rgb(46, 79, 190);
+    color: aliceblue;
+    padding: 5px;
+}
+
+.button:hover, .button:focus{
+    background-color:rgb(253, 143, 0) ;
+    box-shadow: 1px 3px 1px 1px rgb(201, 199, 199);
+}

@@ -1,0 +1,8 @@
+.statistics_list {
+  font-size: 20px; 
+  padding-top: 30px; 
+  padding-left: 15px;
+}
+.statistics_list_item>span{
+    font-weight: 500;
+}
